@@ -1,2 +1,2 @@
 # M139
-M319: Applikationen entwerfen und implementieren Coursework for BFSU programming module
+M139: Applikationen entwerfen und implementieren Coursework for BFSU programming module
